@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Surendran
-- 👀 I’m interested in React and React libraries/frameworks
+- 👋 Hi, I’m Surendran Jagadeesh
+- 👀 I’m interested in React and React Libraries/Frameworks
 - 🌱 I’m currently working on React projects for my portfolio
 - 📫 You can reach me at surendranjagadeesh@gmail.com
 
