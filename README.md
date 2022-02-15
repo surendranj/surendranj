@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Surendran Jagadeesh
-- 👀 I’m interested in React and React Libraries/Frameworks
-- 🌱 I’m currently working on React projects for my portfolio
-- 📫 You can reach me at surendranjagadeesh@gmail.com
+### Hi There 👋
 
-<!---
-surendranj/surendranj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Surendran. I like building stuff with React and Javascript.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendranj)](https://github.com/anuraghazra/github-readme-stats)
