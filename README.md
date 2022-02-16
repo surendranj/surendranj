@@ -15,6 +15,16 @@ I am Surendran, a self-taught web developer from India. I like to create project
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 
   
+#### Certifactes in Data Science and Machine Learning:
+- [Deep Learning](https://coursera.org/share/575a6bc3b4ffe3ab20248e92eb4ab181)
+- [Convolutional Neural Networks](https://coursera.org/share/35d5531ecccc1adbdd2466ae416bee69)
+- [Sequence Models](https://coursera.org/share/1d72483948cfc5201c4ffae3c7a23f44)
+- [Neural Networks and Deep Learning](https://coursera.org/share/61e20fa92e16022c881bcc591f2d3bb6)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/3da040c61a5e6795a407dbc700d57f62)
+- [Structuring Machine Learning Projects](https://coursera.org/share/70f84291b4cfdf20e3c329736a964acc)
+
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=surendranj&show_icons=true&theme=gotham&hide=stars,prs,issues,contribs" alt="surendranj" />
 
