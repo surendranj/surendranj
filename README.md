@@ -16,6 +16,7 @@ I am Surendran, a self-taught web developer from India. I like to create project
 
   
 #### Certifactes in Data Science and Machine Learning:
+- [Data Analysis with Python](https://jovian.ai/certificate/MFQTEMZQHE)
 - [Deep Learning](https://coursera.org/share/575a6bc3b4ffe3ab20248e92eb4ab181)
 - [Convolutional Neural Networks](https://coursera.org/share/35d5531ecccc1adbdd2466ae416bee69)
 - [Sequence Models](https://coursera.org/share/1d72483948cfc5201c4ffae3c7a23f44)
