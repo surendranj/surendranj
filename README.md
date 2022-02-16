@@ -5,9 +5,11 @@
 <img src="/react.png" alt="react" width="40"/>
 <img src="/nextjs.png" alt="nextjs" width="40"/>
 <img src="/react-query.svg" alt="react query" width="40"/>
-<img src="/javascript.png" alt="js" width="45"/>
-<img src="/typescript.png" alt="ts" width="45"/>
-<img src="/tailwindcss.png" alt="ts" width="40"/>
+<img src="/html.png" alt="html" width="40"/>
+<img src="/css.png" alt="css" width="40"/>
+<img src="/javascript.png" alt="javascript" width="45"/>
+<img src="/typescript.png" alt="typescript" width="45"/>
+<img src="/tailwindcss.png" alt="tailwind" width="40"/>
   
   
 
