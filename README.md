@@ -6,7 +6,7 @@ I am Surendran, a self-taught web developer from India. I like to create project
 
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=surendranj&show_icons=true&theme=gotham" alt="surendranj" />
+<img src="https://github-readme-stats.vercel.app/api?username=surendranj&show_icons=true&theme=gotham&hide=stars,prs,issues,contribs" alt="surendranj" />
 
 
 
