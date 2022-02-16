@@ -7,8 +7,8 @@
 <img src="/react-query.svg" alt="react query" width="40"/>
 <img src="/html.png" alt="html" width="40"/>
 <img src="/css.png" alt="css" width="40"/>
-<img src="/javascript.png" alt="javascript" width="45"/>
-<img src="/typescript.png" alt="typescript" width="45"/>
+<img src="/javascript.png" alt="javascript" width="42"/>
+<img src="/typescript.png" alt="typescript" width="42"/>
 <img src="/tailwindcss.png" alt="tailwind" width="40"/>
   
   
